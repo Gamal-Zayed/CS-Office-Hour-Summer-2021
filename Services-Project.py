@@ -15,4 +15,24 @@ y = int(input('plz insert accessories:\n for....'))
 if y==1:
               dkcndkvndkn
 bill = bill + acc_price
+#Reading from file
+file = open('my_file.txt','r')
+money1 = []
+for line in file:
+  x = line.strip().split()
+  money1.append(x[3])
+
+  file = open('file2.txt','r')
+  money2 = []
+  for line in file:
+    x = line.strip().split()
+    money2.append(x[3])
+    
+   
+  my_file.txt
+  jumping house keeping 120
+  vvv     rrrr   jjjjj  340
+  
+  
+  
   
