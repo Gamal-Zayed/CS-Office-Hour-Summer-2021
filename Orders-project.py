@@ -1,1 +1,6 @@
+list1 = [lablabla]
+list2 = [habal]
 
+for i in range(len(list1):
+               ......list1[i]......
+               ......list2[i].......
