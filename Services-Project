@@ -1,0 +1,1 @@
+x = int(input('please insert the number of service you want:\nfor ..... press 1\n for ... press 2'))
