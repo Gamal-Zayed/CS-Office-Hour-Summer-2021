@@ -11,7 +11,7 @@ elif x==2:
  bill = bill + price
 
 acc_price = 0
-y = int(input('plz insert accessories:\n for....))
+y = int(input('plz insert accessories:\n for....'))
 if y==1:
               dkcndkvndkn
 bill = bill + acc_price
