@@ -1,1 +1,7 @@
-x = int(input('please insert the number of service you want:\nfor ..... press 1\n for ... press 2'))
+x = int(input('please insert the number of service you want:\nfor ..... press 1\n for ... press 2\n for .... press 3'))
+if x==1:
+  price = data['Jump_Starter']
+elif x==2:
+  price = data['....']
+  
+  
